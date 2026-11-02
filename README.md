@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, saya Dikaisa 👋
 
-<!--
-**Dikaisa/Dikaisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Fresh Graduate Teknik Informatika | Aspiring Data Analyst & Data Scientist**
 
-Here are some ideas to get you started:
+Lulusan S1 Teknik Informatika dari Universitas Pelita Bangsa (IPK 3.74) dengan pengalaman ±3 tahun di lini produksi manufaktur, tempat saya terbiasa mengolah data produksi harian, inventaris, dan laporan NG. Dari situ saya tertarik mengubah data mentah menjadi insight yang bisa dipakai untuk mengambil keputusan.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📊 Fokus: Data Analysis, Data Visualization, Machine Learning, NLP
+- 🎓 Sedang mengikuti Bootcamp Data Science & Machine Learning di Dibimbing.id
+- 📍 Cikarang, Jawa Barat, Indonesia
+- 🔎 Terbuka untuk kesempatan magang / entry-level di bidang data
+
+---
+
+## 🛠️ Tools & Skills
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
+
+---
+
+## 📁 Project Unggulan
+
+| Project | Deskripsi | Tools |
+|---|---|---|
+| [Analisis Sentimen IndoBERT](https://github.com/Dikaisa/Analisis-Sentimen-terhadap-Kericuhan-Demonstrasi-RKUHAP-DPR-RI-2025-Menggunakan-IndoBERT) | Skripsi: klasifikasi sentimen opini publik terhadap demonstrasi 2025 menggunakan model IndoBERT | Python, Transformers, Pandas |
+| [Analisis Produksi Harian](https://github.com/Dikaisa/production_monitoring_dashboard) | Analisis tren, pola hari, pencapaian target, deteksi anomali, dan forecast produksi lini manufaktur (data simulasi) | Python, Pandas, Matplotlib |
+
+---
+
+## 🏅 Sertifikat
+
+- Kaggle Learn: Python
+- Kaggle Learn: Pandas
+- Bootcamp Data Science & Machine Learning, Dibimbing.id *(on progress)*
+
+---
+
+## 📫 Kontak
+
+- LinkedIn: [linkedin.com/in/USERNAME-LINKEDIN](https://www.linkedin.com/in/muhammaddikaisa)
+- Email: muhammaddikaisa1@gmail.com
