@@ -38,6 +38,8 @@ Lulusan S1 Teknik Informatika dari Universitas Pelita Bangsa (IPK 3.74) dengan p
 - Kaggle Learn: Python
 - Kaggle Learn: Pandas
 - Bootcamp Data Science & Machine Learning, Dibimbing.id *(on progress)*
+- DQLAB : Python Fundamental for data science
+- DQLAB : Fundamental SQL using SELECT statement
 
 ---
 
