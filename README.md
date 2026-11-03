@@ -29,7 +29,7 @@ Lulusan S1 Teknik Informatika dari Universitas Pelita Bangsa (IPK 3.74) dengan p
 | Project | Deskripsi | Tools |
 |---|---|---|
 | [Analisis Sentimen IndoBERT](https://github.com/Dikaisa/Analisis-Sentimen-terhadap-Kericuhan-Demonstrasi-RKUHAP-DPR-RI-2025-Menggunakan-IndoBERT) | Skripsi: klasifikasi sentimen opini publik terhadap demonstrasi 2025 menggunakan model IndoBERT | Python, Transformers, Pandas |
-| [Analisis Produksi Harian](https://github.com/Dikaisa/production_monitoring_dashboard) | Analisis tren, pola hari, pencapaian target, deteksi anomali, dan forecast produksi lini manufaktur (data simulasi) | Python, Pandas, Matplotlib |
+| [Production Monitoring Dashboard](https://github.com/Dikaisa/production_monitoring_dashboard) | Template input, rekap otomatis, dashboard Excel, dan analisis tren pencapaian, NG, serta kekurangan stok lini manufaktur (data simulasi) | Excel, Python, SQL, Pandas |
 
 ---
 
@@ -38,12 +38,15 @@ Lulusan S1 Teknik Informatika dari Universitas Pelita Bangsa (IPK 3.74) dengan p
 - Kaggle Learn: Python
 - Kaggle Learn: Pandas
 - Bootcamp Data Science & Machine Learning, Dibimbing.id *(on progress)*
-- DQLAB : Python Fundamental for data science
-- DQLAB : Fundamental SQL using SELECT statement
+- DQLab: Python Fundamental for Data Science
+- DQLab: Introduction to Data Science with Python
+- DQLab: Fundamental SQL Using SELECT Statement
+
+Daftar lengkap ada di repo [Certification](https://github.com/Dikaisa/Certification).
 
 ---
 
 ## 📫 Kontak
 
-- LinkedIn: [linkedin.com/in/USERNAME-LINKEDIN](https://www.linkedin.com/in/muhammaddikaisa)
+- LinkedIn: [linkedin.com/in/muhammaddikaisa](https://www.linkedin.com/in/muhammaddikaisa/)
 - Email: muhammaddikaisa1@gmail.com
